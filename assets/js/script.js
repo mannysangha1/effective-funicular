@@ -1,0 +1,2 @@
+var cityList = [];
+var id = [];
